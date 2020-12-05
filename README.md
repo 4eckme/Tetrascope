@@ -8,7 +8,7 @@ Simple fractal generator:
 -------------------------------------------------------
 
 Math formula for pixels X11 color hex code:
-* tetrascope.math.svg (x, y - position relative to central pixel of image)
+* tetrascope.math.svg - (x, y - position relative to central pixel of image)
 
 -------------------------------------------------------
 
