@@ -7,7 +7,7 @@ Simple fractal generator:
 
 -------------------------------------------------------
 
-Math formula for X11 color hex code:
+Math formula for pixels X11 color hex code:
 * tetrascope.math.svg
 
 -------------------------------------------------------
