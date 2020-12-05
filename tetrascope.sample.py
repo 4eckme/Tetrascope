@@ -1,5 +1,5 @@
 // Tetrascope sample
-// R=1024, scale=100%
+// R=1024px, scale=100%
 
 import numpy as np
 from PIL import Image
