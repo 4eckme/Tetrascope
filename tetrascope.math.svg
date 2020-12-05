@@ -1,4 +1,4 @@
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="29.208ex" height="3.509ex" style="vertical-align: -0.838ex;" viewBox="0 -1150.1 12575.5 1510.9" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="116.83200ex" height="14.03600ex" style="vertical-align: -0.838ex;" viewBox="0 -1150.1 12575.5 1510.9" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
 <title id="MathJax-SVG-1-Title">{\textstyle \lfloor (x^{2}+y^{2})*16^{6-\lceil \log _{16}(x^{2}+y^{2})\rceil }\rfloor }</title>
 <defs aria-hidden="true">
 <path stroke-width="1" id="E1-MJMAIN-230A" d="M174 734Q174 735 175 737T177 740T180 744T184 747T189 749T196 750Q206 748 214 735V-210H310H373Q401 -210 411 -213T422 -230T411 -247T369 -251Q362 -251 338 -251T298 -250H190Q178 -246 174 -234V734Z"></path>
