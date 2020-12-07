@@ -6,7 +6,7 @@ Math formula for pixels X11 color hex code:
 -------------------------------------------------------
 
 Simple fractal generator:
-* tetrascope.sample.go - for Go language
+* tetrascope.sample.go - for Go
 * tetrascope.sample.py - for Python
 
 -------------------------------------------------------
