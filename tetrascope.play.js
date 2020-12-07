@@ -3,7 +3,7 @@
 // For base tetrascope image set R=1024, n=1
 (function(){ var R = 256; var D=2*R+1;
 var pow = Math.pow; var floor=Math.floor; var ceil=Math.ceil; var log2 = Math.log2;
-var rgb = function(x, y){ return floor(   (x*x*n+y*y*n)*pow(16, ( 6-ceil(log2(x*x*n+y*y*n)/4)) )   ); }
+var rgb = function(x, y, n){ return floor(   (x*x*n+y*y*n)*pow(16, ( 6-ceil(log2(x*x*n+y*y*n)/4)) )   ); }
 document.body.innerHTML=('<canvas id="C" width="'+D+'" height="'+D+'"></canvas>');
 var canvas = document.getElementById('C');
 var ctx = canvas.getContext('2d');
