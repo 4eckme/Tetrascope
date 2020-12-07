@@ -18,12 +18,6 @@ Generated image:
 -------------------------------------------------------
 
 
-JS animation of tetrascope scaling:
+Animation of tetrascope scaling:
 * tetrascope.play.js - available to execute in browser console
-
--------------------------------------------------------
-
-# See also
-
-Shader animation of infinity fractal scaling and GLSL source code
-* https://www.shadertoy.com/view/wscBD2
+* tetrascope.play.glsl - preview https://www.shadertoy.com/view/wscBD2
